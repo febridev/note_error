@@ -1,0 +1,13 @@
+*/ 
+
+    The file will have its original line endings in your working directory. warning: LF will be replaced by CRLF in Gemfile.
+
+    The file will have its original line endings in your working directory. warning: LF will be replaced by CRLF in Gemfile.lock.
+
+    The file will have its original line endings in your working directory. warning: LF will be replaced by CRLF in README.
+/*
+
+solution 
+git config core.autocrlf true
+
+source: http://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important
